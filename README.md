@@ -1,1 +1,1 @@
-# Sample_GIT
+# GIT Notes
